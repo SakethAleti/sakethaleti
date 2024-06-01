@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am currently an Economics Ph.D. student at Duke University. My research interests lie in financial econometrics and asset pricing.
-
 <!--
 **sakethaleti/sakethaleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
